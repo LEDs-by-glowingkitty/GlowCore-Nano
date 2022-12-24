@@ -1,0 +1,6 @@
+.DS_Store
+*-cache
+*-backups
+assembly
+*.kicad_pcb-bak
+*.kicad_prl
